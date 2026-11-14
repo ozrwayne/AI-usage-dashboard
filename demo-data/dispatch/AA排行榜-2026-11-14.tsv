@@ -1,0 +1,291 @@
+模型	上下文	开发商	智能指数	每任务成本	每任务分钟	首答秒
+Claude Fable 5.2 (max)	1M	Anthropic	65	$26.54	45.6	258.83
+Claude Fable 5.2 (xhigh)	1M	Anthropic	62	$14.83	27.7	86.88
+Claude Fable 5.2 (high)	1M	Anthropic	62	$9.08	16.5	28.38
+Gemini 4 Carbon (high)	1M	Google	60	$5.48	29.0	66.65
+Claude Opus 5.5 (max)	1M	Anthropic	59	$10.04	25.1	347.59
+Gemini 4 Carbon (medium)	1M	Google	58	$4.68	25.1	21.38
+Claude Opus 5.5 (xhigh)	1M	Anthropic	57	$6.05	16.0	78.65
+GPT-6 Astra (max)	1M	OpenAI	57	$6.24	23.9	227.88
+Claude Fable 5.2 (medium)	1M	Anthropic	56	$3.80	7.9	11.53
+GPT-6 Astra (xhigh)	1M	OpenAI	55	$3.66	12.1	102.71
+GPT-6 Astra (high)	1M	OpenAI	55	$3.24	9.7	58.03
+GPT-6.1 Sol (max)	1M	OpenAI	55	$1.27	23.2	179.28
+Claude Sonnet 5.5 (max)	1M	Anthropic	55	$10.02	34.0	246.27
+Gemini 4 Carbon (low)	1M	Google	54	$5.22	25.0	13.72
+Claude Fable 5.2 (low)	1M	Anthropic	54	$3.10	6.0	8.55
+Gemini 4 Hydrogen (xhigh)	1M	Google	54	$3.16	14.1	42.92
+GPT-6.1 Sol (xhigh)	1M	OpenAI	52	$0.76	10.5	75.93
+Claude Opus 5.5 (high)	1M	Anthropic	52	$3.46	9.5	24.74
+GPT-6 Astra (medium)	1M	OpenAI	52	$2.73	7.4	6.88
+GPT-6.1 Terra (max)	1M	OpenAI	51	$0.96	14.6	173.67
+Gemini 4 Hydrogen (high)	1M	Google	51	$1.87	7.8	16.30
+Gemini 4 Argon (high)	1M	Google	50	$4.97	30.0	42.88
+GPT-6.1 Sol (high)	1M	OpenAI	50	$0.59	7.7	37.61
+Muse Wonder Full (max)	1M	Meta	50	--	--	--
+Claude Sonnet 5.5 (xhigh)	1M	Anthropic	50	$4.09	14.6	27.41
+Claude Opus 5.5 (medium)	1M	Anthropic	48	$2.45	7.0	16.02
+Gemini 4 Argon (medium)	1M	Google	48	$4.31	--	--
+Kimi K3.1 Pro	1M	Kimi	46	$3.68	38.8	169.61
+GPT-6.1 Sol (medium)	1M	OpenAI	46	$0.36	4.4	4.95
+GPT-6.1 Terra (xhigh)	1M	OpenAI	45	$0.40	6.6	34.13
+Muse Wonder (max)	1M	Meta	44	$6.95	14.2	24.34
+GPT-6 Astra (low)	1M	OpenAI	43	$1.42	3.9	3.85
+GPT-6.1 Terra (high)	1M	OpenAI	42	$0.26	4.3	12.31
+Claude Sonnet 5.5 (high)	1M	Anthropic	42	$1.64	6.8	10.29
+Gemini 4 Hydrogen (medium)	1M	Google	41	$0.80	3.7	11.95
+Muse Wonder (high)	1M	Meta	41	$4.56	10.8	13.10
+GPT-6.1 Terra (medium)	1M	OpenAI	38	$0.17	2.9	4.89
+Claude Haiku 5.5 (max)	1M	Anthropic	36	$0.41	14.8	176.21
+Muse Ember (max)	1M	Meta	36	$0.14	3.2	5.08
+Grok 4.7 (xhigh)	500k	SpaceXAI	35	$7.77	26.6	59.89
+Grok 4.7 (high)	500k	SpaceXAI	35	$6.18	21.9	37.79
+GPT-6.1 Sol (low)	1M	OpenAI	35	$0.16	1.9	3.05
+Claude Opus 5.5 (low)	1M	Anthropic	35	$0.98	3.0	4.71
+Claude Haiku 5.5 (xhigh)	1M	Anthropic	35	$0.25	9.8	56.41
+Tencent Hy4	1M	Tencent	35	$1.03	14.4	100.52
+Muse Ember (xhigh)	1M	Meta	34	$0.12	2.7	4.11
+Qwen3.8 Max (0902)	984k	Alibaba	34	$10.02	50.4	116.12
+DeepSeek V4.1 Flash 1017 (max)	1M	DeepSeek	33	$0.60	14.6	43.89
+GLM-5.3 (max)	1M	Z AI	32	$5.01	27.2	61.59
+Grok 4.7 (low)	500k	SpaceXAI	31	$2.92	10.9	10.73
+Gemini 3.8 Flash (high)	1M	Google	31	$7.77	14.6	17.10
+Claude Sonnet 5.5 (medium)	1M	Anthropic	31	$0.78	3.9	4.87
+Inkling 2 Small	1M	Thinking Machines	31	$1.18	28.1	64.14
+GPT-6.1 Terra (non-reasoning)	1M	OpenAI	31	$0.23	2.4	2.22
+Gemini 3.8 Flash (medium)	1M	Google	30	$6.26	12.6	12.91
+MiMo-V2.6-Pro	1M	Xiaomi	30	$0.26	36.3	39.67
+Claude Haiku 5.5 (high)	1M	Anthropic	30	$0.16	6.5	21.54
+Ling 3.1 Flash 1019	1M	InclusionAI	30	$3.19	--	--
+GPT-6.1 Terra (low)	1M	OpenAI	29	$0.0713	1.2	2.83
+MiniMax-M3.1-Flash	1M	MiniMax	29	$0.49	16.4	53.49
+DeepSeek V4.1 Flash 1017 (high)	1M	DeepSeek	29	$0.46	11.4	21.30
+Qwen3.8-Flash-Next	256k	Alibaba	29	$0.57	34.9	88.84
+Step 5 Preview	1M	StepFun	29	$2.35	14.1	23.11
+GPT-6 Luna (max)	1M	OpenAI	28	$0.15	11.9	79.67
+GLM-5.3-Flash	1M	Z AI	28	$0.58	47.3	95.39
+Gemini 4 Hydrogen (low)	1M	Google	27	$0.29	1.3	5.56
+MiMo-V2.6-Flash	1M	Xiaomi	27	$0.13	52.9	33.19
+Mistral Large 4 (high)	1M	Mistral	26	$2.06	12.6	38.78
+Claude Sonnet 5.5 (low)	1M	Anthropic	26	$0.51	2.5	2.70
+Muse Spark Open (xhigh)	1M	Meta	25	$2.02	7.8	14.22
+Claude Haiku 5.5 (medium)	1M	Anthropic	25	$0.0918	4.0	10.75
+Agnes 2.5 Pro Theta	1M	Sapiens AI	24	$0.57	25.3	7.75
+GPT-6 Luna (xhigh)	1M	OpenAI	23	$0.10	7.3	19.13
+Mistral Large 4 (medium)	1M	Mistral	23	$1.41	9.8	23.69
+GLM-5.3 (low)	1M	Z AI	23	$1.57	14.3	7.13
+DeepSeek V4 Pro 0813 (max)	1M	DeepSeek	23	$1.77	21.2	54.95
+Gemini 3.8 Flash (low)	1M	Google	23	--	--	4.27
+GPT-6 Luna (high)	1M	OpenAI	21	$0.0729	5.7	13.02
+DeepSeek V4 Pro 0813 (high)	1M	DeepSeek	21	$0.85	15.6	55.77
+Nanbeige4.3-33B	524k	Nanbeige	20	--	--	--
+Qwen3.8 27B (xhigh)	256k	Alibaba	20	$3.53	43.6	134.43
+JT-4.1 Flash 236B A21B	262k	China Mobile	19	--	--	--
+MiniMax-M3	1M	MiniMax	19	$1.29	13.8	72.88
+Claude Haiku 5.5 (low)	1M	Anthropic	19	$0.0438	2.2	6.63
+DeepSeek V4.1 Flash 1017 (non-reasoning)	1M	DeepSeek	19	$0.43	7.5	1.38
+GPT-6 Luna (medium)	1M	OpenAI	18	$0.0422	3.5	6.26
+K2 Horizon 375B A23B	524k	Institute of Foundation Models	18	$0.00	4.7	16.30
+Beam 1.0	1M	Reflection	18	$0.28	2.1	6.61
+Qwen3.8 27B (medium)	256k	Alibaba	17	$2.16	33.7	33.57
+Qwen3.8 27B (low)	256k	Alibaba	16	$1.91	29.4	22.50
+Solar Pro 4	512k	Upstage	14	$0.96	63.5	35.22
+Apodex 1.1	256k	Apodex	14	$0.76	14.3	16.27
+Nemotron 3.5 Super VL	1M	NVIDIA	14	$0.52	5.6	15.72
+Inkling Small	1M	Thinking Machines	13	$0.20	6.3	19.84
+DeepSeek V4 Pro 0813 (non-reasoning)	1M	DeepSeek	13	$0.98	15.3	2.43
+Inkling (xhigh)	1M	Thinking Machines	12	$1.35	10.3	21.51
+Nemotron 3 Ultra	262k	NVIDIA	12	$2.23	4.3	9.50
+Gemini 3.5 Flash-Lite	1M	Google	12	$0.69	1.7	4.61
+Qwen3.8 27B (non-reasoning)	256k	Alibaba	10	$3.77	19.1	5.36
+GPT-6 Luna (low)	1M	OpenAI	10	$0.0051	0.6	3.34
+GPT-6 Luna (non-reasoning)	1M	OpenAI	9	$0.0714	1.9	1.74
+K-EXAONE 2.0	262k	LG AI Research	8	--	--	--
+Muse Glimmer (high)	131k	Meta	6	$0.17	5.5	23.74
+Command A+	192k	Cohere	6	$0.00	3.1	12.63
+Nemotron 3.5 Lightning	1M	NVIDIA	6	$0.31	4.3	14.19
+Granite 4.2 8B	131k	IBM	5	$0.0405	10.2	46.61
+Granite 4.2 3B	131k	IBM	5	--	--	--
+Mistral Medium 3.5	256k	Mistral	5	$1.04	4.6	24.62
+Gemma 4 31B	256k	Google	4	--	--	26.12
+Mistral Small 4	256k	Mistral	4	$0.0399	1.6	9.95
+gpt-oss-120b (high)	131k	OpenAI	4	$0.35	7.9	14.53
+North Mini Code	256k	Cohere	3	$0.00	2.8	4.14
+Nemotron 3 Nano 4B	262k	NVIDIA	2	--	--	--
+JT-35B-Flash	256k	China Mobile	--	--	--	--
+Qwen3.5 Omni Plus	256k	Alibaba	--	--	--	2.81
+Nova 2.0 Omni (medium)	1M	Amazon	--	--	--	--
+Qwen3.5 122B A10B (non-reasoning)	262k	Alibaba	--	--	--	4.44
+Gemma 4 12B (non-reasoning)	262k	Google	--	--	--	--
+Gemma 3 270M	32k	Google	--	--	--	--
+Qwen3.5 2B (non-reasoning)	262k	Alibaba	--	--	--	--
+Qwen3 Omni 30B A3B	66k	Alibaba	--	--	--	1.15
+Nova 2.0 Pro Preview (medium)	256k	Amazon	--	--	--	16.48
+Qwen3.5 397B A17B	262k	Alibaba	--	--	--	42.44
+Granite 4.2 30B	131k	IBM	--	--	--	--
+K2 Horizon 7B	524k	Institute of Foundation Models	--	--	--	--
+Mistral Small 4 (non-reasoning)	256k	Mistral	--	--	--	1.64
+gpt-oss-20b (low)	131k	OpenAI	--	--	--	2.02
+o3	200k	OpenAI	--	--	--	6.96
+Nova 2.0 Omni (non-reasoning)	1M	Amazon	--	--	--	--
+Granite 4.0 Micro	128k	IBM	--	--	--	--
+Qwen3.5 9B (non-reasoning)	262k	Alibaba	--	--	--	1.06
+Qwen3.5 122B A10B	262k	Alibaba	--	--	--	18.84
+Hermes 4 70B (non-reasoning)	128k	Nous Research	--	--	--	--
+Nemotron 3 Nano (non-reasoning)	1M	NVIDIA	--	--	--	0.87
+Qwen3 Next 80B A3B	262k	Alibaba	--	--	--	1.36
+Phi-4 Multimodal	128k	Microsoft	--	--	--	0.41
+Qwen3.5 9B	262k	Alibaba	--	--	--	43.83
+NVIDIA Nemotron Nano 9B V2 (non-reasoning)	131k	NVIDIA	--	--	--	1.21
+EXAONE 4.0 32B (non-reasoning)	131k	LG AI Research	--	--	--	--
+G9v3-3B	131k	AI9Stars	--	--	--	--
+Qwen3.5 4B (non-reasoning)	262k	Alibaba	--	--	--	1.40
+Qwen3.5 397B A17B (non-reasoning)	262k	Alibaba	--	--	--	2.47
+K2 Horizon 3.7B	524k	Institute of Foundation Models	--	--	--	--
+Olmo 3 7B Think	66k	Allen Institute for AI	--	--	--	--
+HyperCLOVA X SEED Think (32B)	128k	Naver	--	--	--	--
+HyperNova 60B 2605 (high)	131k	Multiverse Computing	--	--	--	--
+Nova Micro	130k	Amazon	--	--	--	1.37
+EXAONE 4.5 33B (non-reasoning)	262k	LG AI Research	--	--	--	--
+INTELLECT-3	131k	Prime Intellect	--	--	--	--
+gpt-oss-20b (high)	131k	OpenAI	--	--	--	29.40
+Olmo 3.1 32B Think	66k	Allen Institute for AI	--	--	--	--
+Nex-N2-Pro	262k	Nex AGI	--	--	--	--
+Command A	256k	Cohere	--	--	--	10.42
+LFM2.5-VL-1.6B	32k	Liquid AI	--	--	--	--
+JT-MINI	128k	China Mobile	--	--	--	--
+Molmo2-8B	37k	Allen Institute for AI	--	--	--	--
+Qwen3.5 0.8B (non-reasoning)	262k	Alibaba	--	--	--	--
+Ling-3.0-flash-VL	262k	InclusionAI	--	--	--	--
+MiniCPM-V 4.6 1.3B	262k	OpenBMB	--	--	--	--
+EXAONE 4.0 32B	131k	LG AI Research	--	--	--	--
+Sarvam 105B (high)	128k	Sarvam	--	--	--	9.41
+Llama 3.1 405B	128k	Meta	--	--	--	--
+Ring-flash-2.0	128k	InclusionAI	--	--	--	--
+LFM2.5-1.2B-Instruct	32k	Liquid AI	--	--	--	--
+Apertus 70B Instruct	66k	Swiss AI Initiative	--	--	--	--
+Doubao Seed Code	256k	ByteDance Seed	--	--	--	--
+EXAONE 4.5 33B	262k	LG AI Research	--	--	--	--
+Gemma 4 E4B (non-reasoning)	128k	Google	--	--	--	1.57
+K2 Horizon MoVA 36B A4B	524k	Institute of Foundation Models	--	--	--	--
+Granite 4.0 350M	33k	IBM	--	--	--	--
+Kimi Linear 48B A3B Instruct	1M	Kimi	--	--	--	--
+Solar Open 100B	128k	Upstage	--	--	--	--
+GPT-5.3 Codex (xhigh)	400k	OpenAI	--	--	--	44.45
+LFM2.5-1.2B-Thinking	32k	Liquid AI	--	--	--	--
+K2 Think V2	262k	Institute of Foundation Models	--	--	--	--
+LongCat 2.0	1M	LongCat	--	--	--	45.14
+Qwen3.5 2B	262k	Alibaba	--	--	--	--
+Tri-21B-Think	32k	Trillion Labs	--	--	--	--
+Granite 4.0 H Small	128k	IBM	--	--	--	--
+Llama 3.2 11B (Vision)	128k	Meta	--	--	--	4.37
+LongCat Flash Lite	256k	LongCat	--	--	--	--
+Nemotron 3.5 Bolt E4B 4GB	131k	NVIDIA	--	--	--	--
+Nova 2.0 Lite (high)	1M	Amazon	--	--	--	19.40
+Solar Mini 4	1M	Upstage	--	--	--	94.44
+MiniCPM5-2B	131k	OpenBMB	--	--	--	--
+Qwen3.5 4B	262k	Alibaba	--	--	--	150.92
+Motif-2-12.7B	128k	Motif Technologies	--	--	--	--
+Qwen3.6 35B A3B (non-reasoning)	262k	Alibaba	--	--	--	3.17
+Ministral 3 3B	256k	Mistral	--	--	--	1.49
+Hermes 4 70B	128k	Nous Research	--	--	--	--
+Ling-3.0-flash-Fin	262k	InclusionAI	--	--	--	--
+Gemma 4 26B A4B	256k	Google	--	--	--	26.84
+NVIDIA Nemotron Nano 12B v2 VL	128k	NVIDIA	--	--	--	--
+Qwen3.5 Omni Flash	256k	Alibaba	--	--	--	2.86
+Nova 2.0 Lite (low)	1M	Amazon	--	--	--	10.36
+Magistral Small 1.2	128k	Mistral	--	--	--	3.26
+Gemma 4 26B A4B (non-reasoning)	256k	Google	--	--	--	1.66
+Ministral 3 14B	256k	Mistral	--	--	--	2.73
+Gemma 4 E2B (non-reasoning)	128k	Google	--	--	--	--
+Sarvam 30B (high)	66k	Sarvam	--	--	--	--
+Mercury 2.5	260k	Inception	--	--	--	2.28
+Nova 2.0 Lite (non-reasoning)	1M	Amazon	--	--	--	1.73
+Nemotron 3 Nano	1M	NVIDIA	--	--	--	5.43
+DeepSeek V4 Flash Vision (max)	1M	DeepSeek	--	--	--	48.11
+MiniCPM5-1B	128k	OpenBMB	--	--	--	--
+Jamba 1.7 Large	256k	AI21 Labs	--	--	--	--
+Nemotron 3.5 Bolt 74B-A9B	262k	NVIDIA	--	--	--	--
+Nanbeige4.1-3B	256k	Nanbeige	--	--	--	--
+Solar Open2 250B	1M	Upstage	--	--	--	--
+Ling 3.0 Tiny	262k	InclusionAI	--	--	--	11.36
+Celeris-1	131k	Celeris	--	--	--	1.17
+Tiny Aya Global	8k	Cohere	--	--	--	0.22
+A.X-K2	262k	SK Telecom	--	--	--	--
+Exaone 4.0 1.2B (non-reasoning)	64k	LG AI Research	--	--	--	--
+Hermes 4 405B	128k	Nous Research	--	--	--	17.50
+Magistral Medium 1.2	128k	Mistral	--	--	--	--
+Qwen3.6 35B A3B	262k	Alibaba	--	--	--	18.93
+Apertus 8B Instruct	66k	Swiss AI Initiative	--	--	--	--
+Nemotron 3 Nano Omni 30B A3B	256k	NVIDIA	--	--	--	--
+Kimi K2.7 Code	256k	Kimi	--	--	--	41.83
+Qwen3.8 2.4T A95B	262k	Alibaba	--	--	--	103.90
+Olmo 3 7B	66k	Allen Institute for AI	--	--	--	--
+Llama 4 Maverick	1M	Meta	--	--	--	1.61
+GPT-6 Sol (Daybreak Blue, max)	1M	OpenAI	--	--	--	--
+Olmo 3.1 32B Instruct	66k	Allen Institute for AI	--	--	--	--
+Ministral 3 8B	256k	Mistral	--	--	--	1.95
+Llama 3.3 70B	128k	Meta	--	--	--	1.72
+Nemotron Cascade 2 30B A3B	1M	NVIDIA	--	--	--	--
+R1 1776	128k	Perplexity	--	--	--	--
+Llama 3.2 90B (Vision)	128k	Meta	--	--	--	--
+K2 Horizon 0.9B	131k	Institute of Foundation Models	--	--	--	--
+Phi-4 Mini	128k	Microsoft	--	--	--	4.62
+Nova 2.0 Pro Preview (non-reasoning)	256k	Amazon	--	--	--	1.38
+K2-V2 (high)	512k	Institute of Foundation Models	--	--	--	--
+Gemini 3 Deep Think	128k	Google	--	--	--	--
+ERNIE 5.0 Thinking Preview	128k	Baidu	--	--	--	--
+Ling 3.1 Flash	1M	InclusionAI	--	--	--	43.60
+Granite 4.0 H 350M	33k	IBM	--	--	--	--
+Qwen3.5 0.8B	262k	Alibaba	--	--	--	--
+Apriel-v1.6-15B-Thinker	128k	ServiceNow	--	--	--	--
+Qwen3.7 Plus	1M	Alibaba	--	--	--	50.96
+DeepHermes 3 - Mistral 24B (non-reasoning)	32k	Nous Research	--	--	--	--
+NVIDIA Nemotron Nano 12B v2 VL (non-reasoning)	128k	NVIDIA	--	--	--	1.52
+Step3 VL 10B	66k	StepFun	--	--	--	--
+Llama 4 Scout	10M	Meta	--	--	--	1.12
+ERNIE 4.5 300B A47B	131k	Baidu	--	--	--	--
+Molmo 7B-D	4k	Allen Institute for AI	--	--	--	--
+Motif 3	262k	Motif Technologies	--	--	--	--
+Gemma 4 E2B	128k	Google	--	--	--	--
+Hy3	256k	Tencent	--	--	--	43.53
+Nova 2.0 Omni (low)	1M	Amazon	--	--	--	--
+Jamba 1.7 Mini	258k	AI21 Labs	--	--	--	--
+Trinity Large Thinking	512k	Arcee AI	--	--	--	--
+DeepHermes 3 - Llama-3.1 8B (non-reasoning)	128k	Nous Research	--	--	--	--
+Qwen3 Omni 30B A3B	66k	Alibaba	--	--	--	25.79
+Gemini 3.1 Pro Preview	1M	Google	--	--	--	15.08
+G9v3-39A5B	131k	AI9Stars	--	--	--	--
+DiffusionGemma 26B A4B	256k	Google	--	--	--	--
+GPT-5.5 Instant (June 2026)	400k	OpenAI	--	--	--	1.87
+Falcon-H1R-7B	256k	TII UAE	--	--	--	--
+Qwen3 Next 80B A3B	262k	Alibaba	--	--	--	--
+gpt-oss-120b (low)	131k	OpenAI	--	--	--	2.17
+Llama Nemotron Ultra	128k	NVIDIA	--	--	--	--
+Gemma 4 31B (non-reasoning)	256k	Google	--	--	--	4.01
+MiniCPM5-1B (non-reasoning)	128k	OpenBMB	--	--	--	--
+Hermes 4 405B (non-reasoning)	128k	Nous Research	--	--	--	5.13
+Exaone 4.0 1.2B	64k	LG AI Research	--	--	--	--
+Gemma 4 E4B	128k	Google	--	--	--	18.81
+K2-V2 (low)	512k	Institute of Foundation Models	--	--	--	--
+Granite 4.0 H 1B	128k	IBM	--	--	--	--
+Reka Flash 3	128k	Reka AI	--	--	--	7.10
+K2-V2 (medium)	512k	Institute of Foundation Models	--	--	--	--
+Mi:dm K 2.5 Pro	128k	Korea Telecom	--	--	--	--
+LFM2.5-2.6B	128k	Liquid AI	--	--	--	--
+LFM2.5-8B-A1B	33k	Liquid AI	--	--	--	--
+GPT-5.5 Pro (xhigh)	922k	OpenAI	--	--	--	--
+Nova Premier	1M	Amazon	--	--	--	--
+Cogito v2.1	128k	Deep Cogito	--	--	--	--
+Ring-2.6-1T	262k	InclusionAI	--	--	--	13.74
+Phi-4	16k	Microsoft	--	--	--	3.91
+NVIDIA Nemotron Nano 9B V2	131k	NVIDIA	--	--	--	0.79
+Agnes 2.5 Pro Beta	1M	Sapiens AI	--	--	--	--
+Nova 2.0 Pro Preview (low)	256k	Amazon	--	--	--	7.55
+Jamba Reasoning 3B	262k	AI21 Labs	--	--	--	--
+Quasar 438B (max)	1M	Multiverse Computing	--	--	--	--
+LFM2 24B A2B	33k	Liquid AI	--	--	--	--
+Nova 2.0 Lite (medium)	1M	Amazon	--	--	--	16.75
+KAT-Coder-Pro V2	256k	KwaiKAT	--	--	--	--
+Qwen3 Coder Next	256k	Alibaba	--	--	--	1.56
+Gemma 4 12B	262k	Google	--	--	--	--
